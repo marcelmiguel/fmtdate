@@ -1,1 +1,1 @@
-module gitlab.com/metakeule/fmtdate
+module github.com/marcelmiguel/fmtdate

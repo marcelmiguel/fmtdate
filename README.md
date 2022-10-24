@@ -22,7 +22,7 @@ Usage
 
 	package main
 	import (
-		"gitlab.com/metakeule/fmtdate"
+		"gitlab.com/marcelmiguel/fmtdate"
 		"fmt"
 	)
 
@@ -44,7 +44,7 @@ For json
     package main
 
     import (
-        "gitlab.com/metakeule/fmtdate"
+        "gitlab.com/marcelmiguel/fmtdate"
         "fmt"
         "encoding/json"
     )
@@ -97,4 +97,4 @@ Placeholders
 Documentation
 -------------
 
-see https://pkg.go.dev/gitlab.com/metakeule/fmtdate
+see https://pkg.go.dev/github.com/marcelmiguel/fmtdate
